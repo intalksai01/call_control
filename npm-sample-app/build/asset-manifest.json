@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c15cc49c.css",
+    "main.js": "/static/js/main.c950bf6c.js",
+    "static/js/453.7e7af9ec.chunk.js": "/static/js/453.7e7af9ec.chunk.js",
+    "static/media/ringtone.wav": "/static/media/ringtone.c79bd9a78f9efa815c0f.wav",
+    "static/media/ringbacktone.wav": "/static/media/ringbacktone.9b002be293af5cfbf781.wav",
+    "static/media/dtmf.wav": "/static/media/dtmf.962ed3d483814cbfd4ac.wav",
+    "static/media/beep.wav": "/static/media/beep.2fbb7f0f87f09e54287f.wav",
+    "index.html": "/index.html",
+    "main.c15cc49c.css.map": "/static/css/main.c15cc49c.css.map",
+    "main.c950bf6c.js.map": "/static/js/main.c950bf6c.js.map",
+    "453.7e7af9ec.chunk.js.map": "/static/js/453.7e7af9ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c15cc49c.css",
+    "static/js/main.c950bf6c.js"
+  ]
+}
